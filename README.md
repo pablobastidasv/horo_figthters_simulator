@@ -1,1 +1,0 @@
-# horo_figthters_simulator
